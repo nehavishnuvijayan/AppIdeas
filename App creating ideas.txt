@@ -1,0 +1,15 @@
+App: medical reminders app
+uses:
+this app should be able to get the input from a patient(like what medicine were took at which time and the doses details)and store the daily data and should also remind like alarm when it's the medicine time just incase to make the patient be aware that they should take their medicine on time.The paitent could also have their medication history
+
+App: dumb voice app
+uses:
+this app should let the user type what they want to convey and when they are done typing it should read what have been typed and it should be in multiple language just for the user's comfort.
+
+App: animal shelter adoption app
+uses:
+this app should be able to let the users sign in to either sell a pet in adoption or take a pet through adoption this app should have the data stored of varies pet adoption places which would make the users easy to adopt.
+
+App: child safety
+uses:
+this app should access the child's phone if by any chance the child gets or trys to enter an unauthorised site or link unknowingly it should send the warning notification to number of the child's which have been updated when signing in and not let the child access the link.
